@@ -1,0 +1,137 @@
+.banner {
+	background: url(city.jpg) no-repeat;
+	width: 695px;
+	height: 231px;
+}
+
+.grid_3 {
+	   margin-left: 60px;
+}
+
+.container_24 {
+	  margin-top: 10px;
+}
+
+p {
+	 font-size: 13px;
+	 line-height: 20px;
+	 color: #353535;
+}
+
+a {
+	    color: #7e7e7e;
+		text-decoration: none;
+}
+
+a:hover, .selected {
+	     color: black;
+}
+
+.button {
+	     background: red;
+		 padding: 6px;
+}
+
+.button:hover {
+				color: white;
+}
+
+h1, h2 {
+	   letter-spacing: -1px;
+}
+
+h2 {
+	font-style: 26px;
+	text-transform:lowercase;
+	border-bottom: 1x solid #1E1E1E;
+	padding-bottom: 27px;
+	margin-bottom: 15px;
+}
+
+li {
+	 margin-left: 10px;
+}
+
+/*
+******************
+* =Header
+******************
+*/
+
+header {
+	overflow: hidden;
+}
+
+header h1 {
+	 background: url() no-repeat;
+	 text-indent: -9999px;
+	 width: 174px;
+	 height: 23px;
+	 margin: 10px 10px 22px;
+	 float: left;
+}
+
+.banner h2 {
+	   color: white;
+	   font-size: 28px;
+}
+
+.callout {
+		   background: black;
+		   height: 231px;
+}
+
+.main {
+	 margin-top: 20px;
+}
+
+.main blockquote:before {
+	content: '';
+	font-size: 40px;
+	color: #bfbfbf;
+	font-style: italic;
+}
+
+/*
+***********
+	Nav
+***********
+*/
+
+nav {
+	  float: right;
+	  padding-top: 20px;
+}
+
+nav li {
+	  display: inline;
+}
+
+nav a {
+	  text-transform: lowercase;
+}
+
+.grid_4 {
+		   background: red;
+}
+
+.container {
+		   background: green;
+}
+
+.grid_3 {
+		   background: orange;
+}
+
+/*
+	**************
+	main
+	**************
+*/
+.main{
+		 margin-top: 20px;
+}
+
+footer {
+		   background: red;
+}

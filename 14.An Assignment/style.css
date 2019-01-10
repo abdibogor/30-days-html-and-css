@@ -1,0 +1,14 @@
+body {
+	background: silver;
+}
+
+div {
+	width: 500px;
+	margin: 0px auto;
+	font-family: sans-serif;
+}
+
+.abdi {
+	border: 1px solid white;
+	padding: 10px;
+}
